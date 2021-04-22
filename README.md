@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at a link coming soon!
 
-- 📫 How to reach me **vsamuel1121@gmail.com**
+- 📫 How to reach me: **vsamuel1121@gmail.com**
 
 - ⚡ Fun fact **I love cryptocurrency and its technology solutions!**
 
