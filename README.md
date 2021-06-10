@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Anything new!**
 
-- 🤝 I’m looking for help with **Finding good concepts to learn**
+- 🤝 I’m looking for help with **finding new concepts to learn**
 
-- 👨‍💻 All of my projects are available at a link coming soon!
+- 👨‍💻 Some of my finished work is available at **https://vs.on.fleek.co/**
 
 - 📫 How to reach me: **vsamuel1121@gmail.com**
 
