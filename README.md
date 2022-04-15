@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/victor-samuel-1738a29a/" target="_blank"><img src="https://img.shields.io/badge/Contact-LinkedIn-blue" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
-I am a highly driven, results-focused engineer with experience in Information Technology as well as implementing database solutions. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. am open to positions in Data Science or Software Development.
+I am a highly driven, results-focused engineer with experience in Information Technology as well as implementing database solutions. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. I am open to collaborations and positions in Data Science or Software Development.
 
 ## About me
 🔭&nbsp;I’m currently working on **working on a Full-Stack Django Application - Social Media Site**
