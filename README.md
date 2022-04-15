@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a **Coinbase Pro Trading Bot**
 
-- 🌱 I’m currently learning **Python, AWS, JavaScript**
+- 🌱 I’m currently learning **Python and Django!**
 
 - 👯 I’m looking to collaborate on **Anything new!**
 
 - 🤝 I’m looking for help with **finding new concepts to learn**
 
-- 👨‍💻 Some of my finished work is available at **https://vs.on.fleek.co/**
+- 👨‍💻 Some of my finished work is available at **https://victorsamuel.netlify.app/**
 
 - 📫 How to reach me: **vsamuel1121@gmail.com**
 
