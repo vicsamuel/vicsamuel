@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Samuel</h1>
 <h3 align="center">A passionate developer always excited to learn new coding concepts!</h3>
 
-- 🔭 I’m currently working on a **Coinbase Pro Trading Bot**
+- 🔭 I’m currently working on a **Full-Stack Django Application - Social Media Site**
 
 - 🌱 I’m currently learning **Python and Django!**
 
