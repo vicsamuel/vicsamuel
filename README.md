@@ -12,7 +12,7 @@ I am a highly driven, results-focused engineer with experience in Information Te
 <br/>💬&nbsp;Ask me about **Stocks and Crypto**
 <br/>🤝&nbsp;I like to collaborate in **Anything I can get my hands on!**
 <br/>📫&nbsp;Reach me [vsamuel1121@gmail.com](mailto:vsamuel1121@gmail.com)
-<br/>🖥&nbsp; See my website at [https://victorsamuel.netlify.app/](mailto:https://victorsamuel.netlify.app/)
+<br/>🖥&nbsp; See my website at https://v1c.netlify.app/
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
