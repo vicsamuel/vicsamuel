@@ -6,7 +6,7 @@ I am a highly driven, results-focused engineer with experience in Information Te
 
 ## About me
 🔭&nbsp;I’m currently working on **working on a Full-Stack Django Application - Social Media Site**
-<br/>🎓&nbsp;Graduated in **Computer Engineering 2021**
+<br/>🎓&nbsp;Graduated in **Computer Engineering 2021 from Purdue University (IUPUI)**
 <br/>🌱&nbsp;Learning about **Python, Django, and various frameworks for JavaScript**
 <br/>💡&nbsp;I'm interested about **Computer Science, Video Games, Cryptocurrency**
 <br/>💬&nbsp;Ask me about **New technology, Stocks, and Crypto!**
