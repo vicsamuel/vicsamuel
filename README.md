@@ -1,5 +1,5 @@
-<a href="https://www.github.com/https://github.com/vicsamuel/vicsamuel" target="_blank"><img src="https://img.shields.io/badge/https://github.com/vicsamuel/vicsamuel-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/victor-samuel-1738a29a/" target="_blank"><img src="https://img.shields.io/badge/Contact-LinkedIn-blue" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://www.github.com/vicsamuel/" target="_blank"><img src="https://img.shields.io/badge/vicsamuel-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/v1c" target="_blank"><img src="https://img.shields.io/badge/v1c-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## 👋 Hello World
 I am a highly driven, results-focused engineer with experience in Information Technology as well as implementing database solutions. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. I am open to collaborations and positions in Data Science or Software Development.
