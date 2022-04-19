@@ -9,7 +9,7 @@ I am a highly driven, results-focused engineer with experience in Information Te
 <br/>🎓&nbsp;Graduated in **Computer Engineering 2021**
 <br/>🌱&nbsp;Learning about **Python, Django, and various frameworks for JavaScript**
 <br/>💡&nbsp;I'm interested about **Computer Science, Video Games, Cryptocurrency**
-<br/>💬&nbsp;Ask me about **Stocks and Crypto**
+<br/>💬&nbsp;Ask me about **New technology, Stocks, and Crypto!**
 <br/>🤝&nbsp;I like to collaborate in **Anything I can get my hands on!**
 <br/>📫&nbsp;Reach me [vsamuel1121@gmail.com](mailto:vsamuel1121@gmail.com)
 <br/>🖥&nbsp; See my website at https://v1c.netlify.app/
