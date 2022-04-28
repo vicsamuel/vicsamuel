@@ -5,7 +5,7 @@
 I am a highly driven, results-focused engineer with experience in Information Technology as well as implementing database solutions. I currently work at Huron Consulting in development of the back end of our Revenue Cycle tool. I am open to collaborations and positions in Data Science or Software Development. I love learning new things and collaborating on projects so please reach out!
 
 ## About me
-🔭&nbsp;I’m currently working on **working on a Full-Stack Django Application - Social Media Site**
+🔭&nbsp;I’m currently working on **learning Machine Learning and AI Techniques using Python!**
 <br/>🎓&nbsp;Graduated in **Computer Engineering 2021 from Purdue University (IUPUI)**
 <br/>🌱&nbsp;Learning about **Python, Django, and various frameworks for JavaScript**
 <br/>💡&nbsp;I'm interested about **Computer Science, Video Games, Cryptocurrency**
