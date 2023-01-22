@@ -8,7 +8,7 @@ I am a highly driven, results-focused engineer with experience in Information Te
 🔭&nbsp;I’m currently working on **learning how to build Data Pipelines using Snowflake and AWS!**
 <br/>🎓&nbsp;Graduated in **Computer Engineering 2021 from Purdue University (IUPUI)**
 <br/>🌱&nbsp;Learning about **Python, Django, SQL, and various frameworks for JavaScript**
-<br/>💡&nbsp;I'm interested about **Data Engineering, Data Science, Front-End Developement, Video Games, Cryptocurrency, and more!**
+<br/>💡&nbsp;I'm interested about **Data Engineering, Data Science, Front-End Developement, Process Efficiency, Cryptocurrency, and more!**
 <br/>💬&nbsp;Ask me about **New technology, SQL, Data, Revenue Cycle, and Crypto!**
 <br/>🤝&nbsp;I like to collaborate in **Anything I can get my hands on!**
 <br/>📫&nbsp;Reach me [vsamuel1121@gmail.com](mailto:vsamuel1121@gmail.com)
